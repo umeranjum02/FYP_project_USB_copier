@@ -1,0 +1,8 @@
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\bin\Release\AdobeReaders.exe.config
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\bin\Release\AdobeReaders.exe
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\bin\Release\AdobeReaders.pdb
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\obj\x86\Release\FileCorrupter.Form1.resources
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\obj\x86\Release\AdobeReaders.Properties.Resources.resources
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\obj\x86\Release\FileCopier.csproj.GenerateResource.Cache
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\obj\x86\Release\AdobeReaders.exe
+C:\Users\Tech88\Desktop\Umar-Project\Latest-Builds\Usb-Copier\FileCorrupter\obj\x86\Release\AdobeReaders.pdb

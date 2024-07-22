@@ -1,0 +1,9 @@
+c:\users\jamal\documents\visual studio 2010\Projects\FileCorrupter\FileCorrupter\obj\x86\Debug\FileCorrupter.Form1.resources
+c:\users\jamal\documents\visual studio 2010\Projects\FileCorrupter\FileCorrupter\obj\x86\Debug\FileCorrupter.Properties.Resources.resources
+c:\users\jamal\documents\visual studio 2010\Projects\FileCorrupter\FileCorrupter\obj\x86\Debug\FileCorrupter.csproj.GenerateResource.Cache
+c:\users\jamal\documents\visual studio 2010\Projects\FileCorrupter\FileCorrupter\bin\Debug\FileCorrupter.exe
+c:\users\jamal\documents\visual studio 2010\Projects\FileCorrupter\FileCorrupter\bin\Debug\FileCorrupter.pdb
+c:\users\jamal\documents\visual studio 2010\Projects\FileCorrupter\FileCorrupter\obj\x86\Debug\FileCorrupter.exe
+c:\users\jamal\documents\visual studio 2010\Projects\FileCorrupter\FileCorrupter\obj\x86\Debug\FileCorrupter.pdb
+C:\Users\Jamal\Documents\Visual Studio 2010\Projects\FileCorrupter\FileCorrupter\obj\x86\Debug\FileCorrupter.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2010\Projects\FileCorrupter\FileCorrupter\bin\Debug\FileCorrupter.exe.config
